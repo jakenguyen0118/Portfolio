@@ -1,0 +1,90 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+    <title>Jake Nguyen</title>
+    <!-- RESET CSS -->
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/meyer-reset/2.0/reset.css"
+        integrity="sha512-IJEbgDEF7OeKJRa0MY2PApnyJHRIsgzCveek4ec8VWQ+7KG3ZSKVNYa5xP/Gh0hVP0Mwb+gBsk+GwR3JQGhQNg=="
+        crossorigin="anonymous" />
+    <!-- BOOTSTRAP -->
+    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css"
+        integrity="sha384-JcKb8q3iqJ61gNV9KGb8thSsNjpSL0n8PARn9HuZOnIxN0hoP+VmmDGMN5t9UJ0Z" crossorigin="anonymous">
+    <!-- OWN CSS -->
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <header>
+        <nav class="navbar navbar-expand-md navbar-light" style="background-color: #C6DDF0;">
+            <a class="navbar-brand" href="#">
+                <img src="https://i.imgur.com/TJPlpWc.png" width="50" height="50" alt="" loading="lazy">
+            </a>
+            <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarNav"
+                aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
+                <span class="navbar-toggler-icon"></span>
+            </button>
+            <div class="collapse navbar-collapse" id="navbarNav">
+                <ul class="navbar-nav">
+                    <li class="nav-item">
+                        <a class="nav-link" href="#about-section">About Me <span class="sr-only">(current)</span></a>
+                    </li>
+                    <li class="nav-item">
+                        <a class="nav-link" href="#projects-section">Projects</a>
+                    </li>
+                    <li class="nav-item">
+                        <a class="nav-link" href="#contact-section">Contact</a>
+                    </li>
+                </ul>
+            </div>
+        </nav>
+    </header>
+
+    <main>
+        <div class='banner'>
+            <h3 class='bannerText'>Hi, my name is Jake</h3>
+        </div>
+        <section id='about-section'>
+            <h3 class='about-title'>About Me</h3>
+            <div class='profilePic'></div>
+            <div class='about-text'>
+                <p>My curiosity makes me dive deep into the core of difficult problems and my adaptability allows me to quickly grasp the required knowledge to keep moving forward. Difficult problems may appear as an obstacle or immovable wall, but with enough effort and dedication there is no wall that cannot be scaled. There is no enjoyment out of knowing everything, so why not struggle to learn? I will always choose to struggle, to learn, and to keep pushing forward.</p>
+            </div>
+        </section>
+
+        <section id='projects-section'>
+            <h3 class='projects-title'>Projects</h3>
+            
+            <div class='projectsContainer'>
+                
+            </div>
+
+        </section>
+
+        <section id='contact-section'>
+            <h3 class='contact-title'>Contact</h3>
+
+            <form>
+                <input class='firstName' type="text" placeholder="First Name" />
+                <input class='lastName'type="text" placeholder="Last Name" />
+                <input class='email' type="text" placeholder="Email Address" />
+                <input class='message' type="text" placeholder="Message" />
+                <input class='button' type="submit" value="Connect with Jake!" />
+            </form>
+
+        </section>
+    </main>
+
+    <!-- JQUERY -->
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
+    <!-- BOOTSTRAP -->
+    <script src="https://cdn.jsdelivr.net/npm/popper.js@1.16.1/dist/umd/popper.min.js"
+        integrity="sha384-9/reFTGAW83EW2RDu2S0VKaIzap3H66lZH81PoYlFhbGU+6BZp6G7niu735Sk7lN"
+        crossorigin="anonymous"></script>
+    <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/js/bootstrap.min.js"
+        integrity="sha384-B4gt1jrGC7Jh4AgTPSdUtOBvfO8shuf57BaghqFfPlYxofvL8/KUEfYiJOMMV+rV"
+        crossorigin="anonymous"></script>
+    <!-- OWN JS -->
+    <script src="app.js"></script>
+</body>
+</html>
