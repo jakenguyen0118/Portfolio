@@ -8,12 +8,12 @@ You are **responsible** for scheduling time with your squad to seek approval for
 
 |  Day | Deliverable | Status
 |---|---| ---|
-|Day 1| Project Description | Complete
-|Day 1| Wireframes / Priority Matrix / Timeline | Complete
-|Day 3| Core Application Structure (HTML, CSS, etc.) | Complete
-|Day 4| MVP & Bug Fixes | Complete
-|Day 5| Final Touches | Complete
-|Day 6| Present | Complete
+|Day 1| Wireframing/MVP | Complete
+|Day 2| HTML, Revisit Old Projects | Complete
+|Day 3| Styling (CSS) & Google Sheet API | Complete
+|Day 4| JS, Small Adjustments to HTML/CSS | Complete
+|Day 4| Revisit More Old Projects | Complete
+|Day 5| Final Touches & Presentation | Complete
 
 ## Wireframes
 
@@ -42,10 +42,10 @@ Upload images of wireframe to cloudinary and add the link here with a descriptio
 #### PostMVP
 | Component | Priority | Estimated Time | Actual Time |
 | --- | :---: |  :---: | :---: | 
-| Work on more projects | M | 5hr | hr |
-| Carousel | M | 2hr | hr |
-| Bootstrap | L | 2hr | hr |
-| Total | H | 7hr | hr |
+| Work on more projects | M | 5hr | 3hr |
+| Carousel | M | 2hr | 1hr |
+| Bootstrap | L | 2hr | 3hr |
+| Total | H | 7hr | 7hr |
 
 
 ## Additional Libraries
