@@ -13,7 +13,7 @@ You are **responsible** for scheduling time with your squad to seek approval for
 |Day 3| Core Application Structure (HTML, CSS, etc.) | Complete
 |Day 4| MVP & Bug Fixes | Complete
 |Day 5| Final Touches | Complete
-|Day 6| Present | Incomplete
+|Day 6| Present | Complete
 
 ## Wireframes
 
