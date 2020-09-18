@@ -30,14 +30,14 @@ Upload images of wireframe to cloudinary and add the link here with a descriptio
 | Desktop Design | H | 3hr | 1hr |
 | Contact Form | L | 1hr | 1hr |  
 | Fine Tuning Previous Projects | M | 2hr|  2.5hr | 
-| General Styling| M | 3hr | 4hr|
-| Google Sheet API for Projects | L | 1hr|  3hr | 
-| Responsive | M | 1hr | 1hr |
-| Social Media Icons | L | .5hr |  0hr |
+| General Styling| M | 3hr | 5hr|
+| Google Sheet API for Projects | L | 1hr|  5hr | 
+| Responsive | M | 1hr | 2hr |
+| Social Media Icons | L | .5hr |  .5hr |
 | Hamburger Menu | L | .5hr |  .5hr |
 | Event Animations | L | 2hr |  0hr |
 | Back to Top Arrow | L | .5hr |  0hr |
-| Total | H | 18.5hrs| 17.5hrs |
+| Total | H | 18.5hrs| 21.5hrs |
 
 #### PostMVP
 | Component | Priority | Estimated Time | Actual Time |
