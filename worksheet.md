@@ -43,6 +43,7 @@ Upload images of wireframe to cloudinary and add the link here with a descriptio
 | Component | Priority | Estimated Time | Actual Time |
 | --- | :---: |  :---: | :---: | 
 | Work on more projects | M | 5hr | hr |
+| Carousel | M | 2hr | hr |
 | Bootstrap | L | 2hr | hr |
 | Total | H | 7hr | hr |
 
